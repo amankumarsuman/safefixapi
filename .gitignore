@@ -1,0 +1,12 @@
+node_modules
+.vscode
+build
+CVS
+.env
+
+*.jsx.1.*
+*.js.1.*
+*.js.swn*
+*.css.1.*
+*.swp
+*.1.*
